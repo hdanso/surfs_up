@@ -10,7 +10,8 @@ An analysis of the data reveals 3 key difference in weather trends between June 
 2. The maximum Oahu temperature in June is 2 degrees hotter than the maximum Oahu temperature in December; 85 degrees in June vs. 83 degrees in December
 3. The minimum Oahu temperature in June is 8 degrees hotter than the minimum Oahu temperature in December; 64 degrees in June vs.56 degrees in December.
 
-The figures below summarizes the statistical findings for weather data in June and December.
+The figures below summarizes the statistical findings for weather data in June and December:
+
 <img width="150" alt="June Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411861-570f4204-0176-4ffe-9918-a3f53064d941.png">
 <img width="173" alt="Dec Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411869-48f5a152-8776-4f05-9100-282974125a49.png">
 
