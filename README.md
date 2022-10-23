@@ -12,8 +12,7 @@ An analysis of the data reveals 3 key difference in weather trends between June 
 
 The figures below summarizes the statistical findings for weather data in June and December:
 
-<img width="150" alt="June Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411861-570f4204-0176-4ffe-9918-a3f53064d941.png">
-<img width="173" alt="Dec Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411869-48f5a152-8776-4f05-9100-282974125a49.png">
+<img width="150" alt="June Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411861-570f4204-0176-4ffe-9918-a3f53064d941.png"> <img width="173" alt="Dec Temp Stats" src="https://user-images.githubusercontent.com/96188669/197411869-48f5a152-8776-4f05-9100-282974125a49.png">
 
 
 ## Summary
